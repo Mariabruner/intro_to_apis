@@ -32,7 +32,6 @@ fetch(baseURL + "/films")
         displayResults(myArr)
     })
 
-
     //Display Results
 function displayResults(films) {
     console.log("Hello from display results",films) //Checks to prove I am passing my data
